@@ -27,15 +27,15 @@ WhitePaintbrush,Castilleja,occidentalis,,Western paintbrush
 RealPlantain,Bistorta,vivipara,,Alpine Bistort
 Rsedum,Rhodiola,integrifolia,integrifolia,Western Roseroot
 WhiteGoldenrod,Galium,boreale,,Northern Bedstraw
-Conifer,Pinus,ssp. ,,Pine
+Conifer,Pinus,sp.,,Pine
 Strawberry,Fragaria,vesca,,Wild Strawberry
 WildRose,Rosa,acicularis,,Wild Rose
-Clover,Unk,,,
+Clover,Trifolium,sp.,,
 AlpinePainbrush,Castilleja,rhexifolia,,Alpine paintbrush
 MouseEaredCres,Arabidopsis,thaliana,,Mouse Eared Cress
 Catchfly,Silene,drummondii,,Drummonds catchfly
 Not Dryas,Arctostaphylos,uva-ursi,,Bearberry
-Bluebell,Delphinium glaucum,,,Larkspur
+Bluebell,Delphinium,glaucum,,Larkspur
 ScarletPaintbrush,Castilleja,miniata,,Red paintbrush
 WoolyPussytoes,Antennaria,lanata,,Wooly Pussy Toes
 Buckwheat,Artemisia,borealis,,Boreal Sage
@@ -61,3 +61,4 @@ Onion,Allium,sp.,,
 Wil,Salix,sp.,,Willow
 PurpleSmalls,Oxytropis,podocarpa,,Stalkeed-pod locoweed
 Redpaintbrush,Castilleja,miniata,,Red paintbrush
+BlueBell,Campanula,alpenstris,,Alpine bluebell

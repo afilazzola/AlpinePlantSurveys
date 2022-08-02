@@ -398,23 +398,6 @@ Year,Month,Day,Meadow,Quadrat,Sub-plot,Species,PercentCover
 2022,7,22,R,5,4,Strawberry,3
 2022,7,22,R,5,4,FalseDandelion,2
 2022,7,22,R,5,4,Not Dryas,5
-2022,7,22,P,1,1,Grass,50
-2022,7,22,P,1,1,WoolyPussytoes,8
-2022,7,22,P,1,1,Goldenrod,8
-2022,7,22,P,1,1,Gallium,1
-2022,7,22,P,1,1,Cinque,7
-2022,7,22,P,1,1,ShrubCinque,4
-2022,7,22,P,1,1,Yarrow,4
-2022,7,22,P,1,2,Grass,30
-2022,7,22,P,1,2,Goldenrod,10
-2022,7,22,P,1,2,ShrubCinque,6
-2022,7,22,P,1,2,Yarrow,5
-2022,7,22,P,1,2,WhiteGoldenrod,3
-2022,7,22,P,1,2,Camas,3
-2022,7,22,P,1,2,WoolyPussytoes,7
-2022,7,22,P,1,2,Pea,6
-2022,7,22,P,1,2,Yarrow,3
-2022,7,22,P,1,2,Cinque,8
 2022,7,24,G,1,1,ShrubCinque,20
 2022,7,24,G,1,1,Cinque,6
 2022,7,24,G,1,1,FalseDandelion,4
@@ -452,7 +435,7 @@ Year,Month,Day,Meadow,Quadrat,Sub-plot,Species,PercentCover
 2022,7,24,G,2,1,JacobsLadder,10
 2022,7,24,G,2,1,Grass,15
 2022,7,24,G,2,1,FalseDandelion,5
-2022,7,24,G,2,1,Gallium,2
+2022,7,24,G,2,1,MouseEaredCres,2
 2022,7,24,G,2,1,WhiteGoldenrod,2
 2022,7,24,G,2,1,Cinque,4
 2022,7,24,G,2,1,Crocus,3
@@ -481,7 +464,7 @@ Year,Month,Day,Meadow,Quadrat,Sub-plot,Species,PercentCover
 2022,7,24,G,2,4,FalseDandelion,3
 2022,7,24,G,2,4,WhiteLocoweed,5
 2022,7,24,G,2,4,Grass,10
-2022,7,24,G,2,4,Gallium,3
+2022,7,24,G,2,4,GrassOfParnassius,3
 2022,7,24,G,2,4,JacobsLadder,3
 2022,7,24,G,2,4,WhiteGoldenrod,5
 2022,7,24,G,2,4,Blue Boraginacaea,1
@@ -792,7 +775,6 @@ Year,Month,Day,Meadow,Quadrat,Sub-plot,Species,PercentCover
 2022,7,24,g,3,4,Yarrow,1
 2022,7,24,g,3,4,Goldenrod,4
 2022,7,24,g,3,4,WhiteLocoweed,3
-2022,7,24,g,3,4,Strawberry,3
 2022,7,24,g,3,4,Rsedum,1
 2022,7,24,g,4,1,JacobsLadder,3
 2022,7,24,g,4,1,Bluebell,4
@@ -1277,7 +1259,6 @@ Year,Month,Day,Meadow,Quadrat,Sub-plot,Species,PercentCover
 2022,7,28,Z,1,4,WhiteLocoweed,1
 2022,7,28,Z,1,4,Grass,3
 2022,7,28,Z,2,1,Dryas,55
-2022,7,28,Z,2,1,Camas,5
 2022,7,28,Z,2,1,Arnica,6
 2022,7,28,Z,2,1,Grass,8
 2022,7,28,Z,2,1,Crocus,2
